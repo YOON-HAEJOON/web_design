@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    margin:50px;
+    margin:10px;
     padding:50px;
     overflow:scroll;
 
@@ -106,14 +106,15 @@ font-family: NotoSansCJKkr-Bold.otf;
 
 
 table{
-    width:350px;
-    border:400px;
-    margin:7px; 
+    width:400px;
+    border:500px;
+    margin:0px; 
 }
 
 td{
     border:3px solid 
-    padding:10px;
+    text-align:center;
+    padding:3px;
 
     
 }

@@ -64,7 +64,7 @@ ul{
 @font-face{
     font-family: NotoSansCJKkr;
     src:url('NotoSansCJKkr-Bold.otf');
-    src:url('NotoSansCJKkr-Medium.otf');
+    src:url('NotoSansMonoCJKkr-Regular.otf');
     font-weight:bold;}
     
 
@@ -99,7 +99,7 @@ font-family: NotoSansCJKkr-Bold.otf;
 
 .ment{
     text-align: center;
-    font-family: NotoSansCJKkr-Medium.otf;
+    font-family: NotoSansMonoCJKkr-Regular.otf;
 }
 
 
@@ -128,7 +128,7 @@ td2{
 }
 
 table3{
-    margin:60px;
+    margin:70px;
 }
 td3{
     border: 5px solid 

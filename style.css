@@ -4,14 +4,14 @@ body{
 
 header{
     margin:50px;
-    padding:
+    padding:50px;
     overflow:scroll;
 
 }
 
 header nav{
     background-color:#ffffff;
-    width: 400px;
+    width: 500px;
     float:right;
     
 }
